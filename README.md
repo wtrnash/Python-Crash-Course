@@ -6,4 +6,8 @@
 * 掌握git、github的使用
 * 掌握markdown的相关语法
 
+将使用PyCharm来编写书上的相关代码
+
+
+
 
