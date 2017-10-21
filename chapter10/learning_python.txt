@@ -1,0 +1,4 @@
+In Python you can write beautiful code.
+In Python you can open file.
+In Python you can use dictionary.
+In Python you can use list.
